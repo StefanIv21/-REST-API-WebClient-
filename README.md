@@ -1,5 +1,9 @@
-# -REST-API-WebClient-
-
+# -REST-API-Books Store Client
+# --------------Info--------------
+- This client application connects to a REST API that serves and processes books in JSON format.
+- It can perform various HTTP requests, including GET, POST, and DELETE, to interact with the server.
+- The application handles authentication, tracks cookies and tokens, and implements the HTTP protocol for making HTTP requests to the server.
+-----------------------------------------------------------------------------------------------------------------------------------------------
 For testing:  ./client
 
 The client interprets keyboard commands to be able to interact with the server.
